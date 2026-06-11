@@ -9,7 +9,7 @@ Nome: Bernardo Lopes
 Desenvolvimento - Sistema E-commerce Simplificado
 ## Contato
 
-E-mail: bernardolopesmachado15@gmail.com  
+E-mail: bernardo25070018@aluno.cesupa.br 
 WhatsApp: (91) 98497-4731
 
 ## Setup do Projeto
