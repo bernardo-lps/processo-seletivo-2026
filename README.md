@@ -6,8 +6,7 @@ Nome: Bernardo Lopes
 
 ## Trilha Escolhida
 
-Desenvolvimento - Mini E-commerce
-
+Desenvolvimento - Sistema E-commerce Simplificado
 ## Contato
 
 E-mail: bernardolopesmachado15@gmail.com  
